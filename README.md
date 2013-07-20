@@ -1,6 +1,6 @@
 Simple java api for the Nest device.
 
-I got the idea and how to connect to the Nest by looking at https://github.com/smbaker/pynest (so thank you Scott M Baker for all the time you spent on it), and converting it from python to java.  Why Java?  I need it to run in some existing java code.
+I got the idea and how to connect to the Nest by looking at https://github.com/smbaker/pynest (so thank you Scott M Baker for all the time you spent on it). So I convert it from python to java.  Why Java?  I need it to run in some existing java code.
 
 I put it together in a few hours.  So I'm sure there are better ways to do some things.  Over time I may make some changes..  So please go ahead and enjoy hacking on your nest!!!
 
