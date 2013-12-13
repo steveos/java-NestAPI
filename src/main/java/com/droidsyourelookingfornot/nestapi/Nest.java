@@ -213,6 +213,8 @@ public class Nest {
         String basicAuth = "Basic " + nestHeaderJSON.get(ACCESS_TOKEN);
 
         String nestDataDump = httpCall(GET, url2, basicAuth, "");
+        
+        log.info(nestDataDump);
 
 
         try {
